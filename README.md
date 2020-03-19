@@ -5,11 +5,6 @@
 - Collecting, analyzing and making predictions 
 - To find insights from datasets 
 
-## About Coronavirus(COVID-19) Outbreak
-<p align="justify">
-Coronaviruses (CoV) are a family of viruses that cause illnesses ranging from the common cold to more severe diseases such as severe acute respiratory syndrome (SARS-CoV) and the Middle East respiratory syndrome (MERS-CoV). Coronaviruses are zoonotic, meaning that they are transmitted between animals and people. SARS-CoV, for instance, was transmitted from civet cats to humans while MERS-CoV moved to humans from a type of camel. The name coronavirus comes from the Latin word corona, meaning crown or halo. Under an electron microscope, the image of the virus looks like a solar corona. Several known coronaviruses are circulating in animals that have not yet infected humans. A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a novel severe acute respiratory syndrome coronavirus, previously known by the provisional name 2019 novel coronavirus (2019-nCoV), is a positive-sense single-stranded RNA virus. It is contagious in humans and is the cause of the ongoing 2019–20 coronavirus outbreak. The outbreak was first identified in Wuhan, Hubei, China in December 2019, and has since been declared a Public Health Emergency of International Concern by the World Health Organization on 30 January. More than 115 countries and territories have been affected, with major outbreaks in central China, Italy, South Korea, and Iran.**Now Bangladesh!**
-</p>
-
 ## Directory Structure 
 - **world_data:** Contains all datasets of Coronavirus(COVID-19) Cases around the World(file format `.csv`)
 - **bd_data:** Contains all datasets of Coronavirus(COVID-19) Cases in Bangladesh(file format`.csv`)
