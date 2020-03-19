@@ -1,7 +1,7 @@
 # COVID-19 Data Repository for Bangladesh
 ## Directory Structure 
-- **world_data:** Contains all datasets of Coronavirus(COVID-19) Cases around the World(`.csv`)
-- **bd_data:** Contains all datasets of Coronavirus(COVID-19) Cases in Bangladesh(`.csv`)
+- **world_data:** Contains all datasets of Coronavirus(COVID-19) Cases around the World(file format `.csv`)
+- **bd_data:** Contains all datasets of Coronavirus(COVID-19) Cases in Bangladesh(file format`.csv`)
 
 ## Data Sources 
 -  https://github.com/CSSEGISandData/COVID-19
