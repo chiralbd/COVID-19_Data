@@ -22,7 +22,7 @@ Coronaviruses (CoV) are a family of viruses that cause illnesses ranging from th
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 - https://ourworldindata.org/coronavirus
 
-## Useful Dashboards 
+## Dashboards 
 <p align="justify">
 The World Health Organization (WHO), researchers from Johns Hopkins University, and other institutions all maintain datasets on the number of cases, deaths, and recoveries from the disease These are made in a number of useful dashboards and websites listed below.
 
