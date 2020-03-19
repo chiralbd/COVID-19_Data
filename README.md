@@ -1,7 +1,7 @@
 # COVID-19 Data Repository for Bangladesh
 
-## Goals of COVID-19_Bangladesh Data Repository
-- To collect data from authentic source for helping public health researchers.
+## Goals
+- To collect data from authentic sources for helping public health researchers.
 - Collecting, analyzing and making predictions 
 - To find insights from datasets 
 
