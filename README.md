@@ -7,6 +7,9 @@
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 - https://ourworldindata.org/coronavirus
 
+## Directory Structure 
+- **world_data:** Contains all datasets of Coronavirus(COVID-19) Cases around the World(`.csv`)
+- **bd_data:** Contains all datasets of Coronavirus(COVID-19) Cases in Bangladesh(`.csv`)
 
 ## Contact Us 
 - Email: datasticslab@gmail.com
