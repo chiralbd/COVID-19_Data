@@ -16,7 +16,8 @@
 - https://www.iedcr.gov.bd/
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 - https://ourworldindata.org/coronavirus
-
+- http://103.247.238.81/webportal/pages/covid19.php
+- http://corona.gov.bd/
 ## Dashboards 
 <p align="justify">
 The World Health Organization (WHO), researchers from Johns Hopkins University, and other institutions all maintain datasets on the number of cases, deaths, and recoveries from the disease These are made in a number of useful dashboards and websites listed below.
